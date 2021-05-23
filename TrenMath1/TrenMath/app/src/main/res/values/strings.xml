@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TrenMath</string>
+    <string name="bt1_4">1-4 класс</string>
+    <string name="bt5_9">5-9 класс</string>
+    <string name="bt10_11">10-11 класс</string>
+    <string name="tema1_4">
+        <item></item>
+    </string>
+    <string name="tema5_9">
+        <item></item>
+    </string>
+    <string-array name="tema10_11">
+        <item>Вероятность</item>
+        <item>Простейшие задачи</item>
+        <item>Прикладные задачи</item>
+        <item>Текстовые задачи</item>
+        <item>Простейшие уравнения</item>
+
+    </string-array>
+</resources>

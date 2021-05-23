@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Тренажер по математике</string>
+    <string name="bt1_4">1-4 класс</string>
+    <string name="bt5_9">5-9 класс</string>
+    <string name="bt10_11">10-11 класс</string>
+    <string name="tema1_4">
+        <item></item>
+    </string>
+    <string name="tema5_9">
+        <item></item>
+    </string>
+
+
+    <string-array name="tema1">
+        <item>Порядковый счет</item>
+        <item>Части множества</item>
+        <item>Равенства множеств</item>
+        <item>Точки и линии</item>
+        <item>Расположение событий по времени</item>
+    </string-array>
+
+    <string-array name="tema2">
+        <item>Миллиметр</item>
+        <item>Метр</item>
+        <item>Однозначные и двузначные числа</item>
+        <item>Сотня</item>
+        <item> Письменная нумерация чисел</item>
+    </string-array>
+
+    <string-array name="tema3">
+        <item>Решение уравнений</item>
+        <item>Выражение с переменной</item>
+        <item>Письменные приемы сложения и вычитания</item>
+        <item>Обозначение геометрических фигур</item>
+        <item>Площадь</item>
+    </string-array>
+
+    <string-array name="tema4">
+        <item>Умножение на однозначное число</item>
+        <item>Равно ли нулю</item>
+        <item>Нахождение ширины/длины</item>
+        <item>Задачи</item>
+        <item>Нахождение значения</item>
+    </string-array>
+
+    <string-array name="tema5">
+        <item>Понятие числа</item>
+        <item>Точки и линия</item>
+        <item>Плоскость</item>
+        <item>Прямая</item>
+        <item>Единицы измерения</item>
+    </string-array>
+
+
+    <string-array name="tema6">
+        <item>Признаки делимости на 5 и на 10</item>
+        <item> Признаки делимости на 3 и на 9</item>
+        <item>Простые числа</item>
+        <item>Составные числа</item>
+        <item>НОК и НОД</item>
+    </string-array>
+
+    <string-array name="tema7">
+        <item>Отношения</item>
+        <item>Пропорции</item>
+        <item>Шар</item>
+        <item>Масштаб</item>
+        <item>Длина окружности. Площадь круга</item>
+    </string-array>
+
+    <string-array name="tema8">
+        <item>Нахождение числа по его дроби</item>
+        <item>Дробные выражения</item>
+        <item>Изменение площади и объема</item>
+        <item>Деление обыкновенных дробей</item>
+        <item> Взаимно обратные числа</item>
+    </string-array>
+
+    <string-array name="tema9">
+        <item> Квадратные уравнения</item>
+        <item>Расчет</item>
+        <item>Сравнение чисел</item>
+        <item>Выбор оптимального варианта</item>
+        <item>Нахождение корней уравнения</item>
+    </string-array>
+
+    <string-array name="tema10_11">
+        <item>Вероятность</item>
+        <item>Простейшие задачи</item>
+        <item>Прикладные задачи</item>
+        <item>Текстовые задачи</item>
+        <item>Простейшие уравнения</item>
+    </string-array>
+
+    <string-array name="number_task">
+        <item>Задание №1</item>
+        <item>Задание №2</item>
+        <item>Задание №3</item>
+        <item>Задание №4</item>
+        <item>Задание №5</item>
+    </string-array>
+
+    <string-array name="number_Unit1">
+        <item>1 класс</item>
+        <item>2 класс</item>
+        <item>3 класс</item>
+        <item>4 класс</item>
+    </string-array>
+
+    <string-array name="number_Unit2">
+        <item>5 класс</item>
+        <item>6 класс</item>
+        <item>7 класс</item>
+        <item>8 класс</item>
+        <item>9 класс</item>
+    </string-array>
+
+
+</resources>

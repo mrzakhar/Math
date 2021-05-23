@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/n"
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Выберите один вариант ответа." />
+
+
+            <TextView
+                android:id="@+id/numberTask1011_1"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text.CenterStacked"
+                android:background="#BB86FC"
+                android:text="TextView" />
+
+            <TextView
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+                android:id="@+id/des_task1011_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="TextView" />
+
+            <CheckBox
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+                android:id="@+id/cb1011_1_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CheckBox" />
+
+            <CheckBox
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+                android:id="@+id/cb1011_1_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CheckBox" />
+
+            <CheckBox
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+                android:id="@+id/cb1011_1_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CheckBox" />
+
+            <CheckBox
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+                android:id="@+id/cb1011_1_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CheckBox" />
+
+
+            <TextView
+                android:id="@+id/numberTask1011_2"
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text.CenterStacked"
+                android:background="#BB86FC"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="TextView" />
+
+            <TextView
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+                android:id="@+id/des_task1011_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="TextView" />
+
+            <CheckBox
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+                android:id="@+id/cb1011_2_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CheckBox" />
+
+            <CheckBox
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+                android:id="@+id/cb1011_2_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CheckBox" />
+
+            <CheckBox
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+                android:id="@+id/cb1011_2_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CheckBox" />
+
+            <CheckBox
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+                android:id="@+id/cb1011_2_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CheckBox" />
+
+
+
+
+            <TextView
+                android:id="@+id/numberTask1011_3"
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text.CenterStacked"
+                android:background="#BB86FC"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="TextView" />
+
+            <TextView
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+                android:id="@+id/des_task1011_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="TextView" />
+
+            <CheckBox
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+                android:id="@+id/cb1011_3_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CheckBox" />
+
+            <CheckBox
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+                android:id="@+id/cb1011_3_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CheckBox" />
+
+            <CheckBox
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+                android:id="@+id/cb1011_3_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CheckBox" />
+
+            <CheckBox
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+                android:id="@+id/cb1011_3_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CheckBox" />
+
+
+            <TextView
+                android:id="@+id/numberTask1011_4"
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text.CenterStacked"
+                android:background="#BB86FC"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="TextView" />
+
+            <TextView
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+
+                android:id="@+id/des_task1011_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="TextView" />
+
+            <CheckBox
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+
+                android:id="@+id/cb1011_4_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CheckBox" />
+
+            <CheckBox
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+
+                android:id="@+id/cb1011_4_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CheckBox" />
+
+            <CheckBox
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+
+                android:id="@+id/cb1011_4_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CheckBox" />
+
+            <CheckBox
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+
+                android:id="@+id/cb1011_4_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CheckBox" />
+
+
+            <TextView
+                android:id="@+id/numberTask1011_5"
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text.CenterStacked"
+                android:background="#BB86FC"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="TextView" />
+
+            <TextView
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+
+                android:id="@+id/des_task1011_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="TextView" />
+
+            <CheckBox
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+
+                android:id="@+id/cb1011_5_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CheckBox" />
+
+            <CheckBox
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+
+                android:id="@+id/cb1011_5_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CheckBox" />
+
+            <CheckBox
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+
+                android:id="@+id/cb1011_5_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CheckBox" />
+
+            <CheckBox
+                style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+
+                android:id="@+id/cb1011_5_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CheckBox" />
+
+            <Button
+                android:id="@+id/checked10_11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Проверить" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
